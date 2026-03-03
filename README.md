@@ -1,2 +1,1 @@
-Sistema de Atencion Hospitalaria
-El sistema  de atencion ospitalaria 
+[ver documento del sistema](sistema de atencion hospitalaria concurrente.docx)
