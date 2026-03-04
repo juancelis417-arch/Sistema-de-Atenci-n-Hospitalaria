@@ -1,1 +1,1 @@
-[Ver documento del completo en PDF](file:///C:/Users/glori/Downloads/sistema_atencion_hospitalaria_concurrente.pdf)
+[Ver documento del completo](file:///C:/Users/glori/Downloads/sistema_atencion_hospitalaria_concurrente.pdf)
