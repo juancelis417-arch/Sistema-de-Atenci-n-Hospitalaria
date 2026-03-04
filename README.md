@@ -1,1 +1,1 @@
-[Ver documento del completo](sistema_atencion_hospitalaria_concurrente(1).pdf)
+[Ver documento del completo](Sistema-de-Atenci-n-Hospitalaria.pdf)
