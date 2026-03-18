@@ -3,7 +3,7 @@ input("-----ingrese los datos para ser regidtraso en el sistema...!-----")
   
 def registrar_paciente():
   
- nombre=str(input("ingrese su nombre: "))
+ nombre=input("ingrese su nombre: ")
  print(f"paciente {nombre} fue registrado\n")
    
  edad=(input("ingrese su edad: "))
@@ -21,7 +21,7 @@ def registrar_paciente():
  print("Paciente registrado exitosamente!!")
 
 
- return paciente
+ 
 
 registrar_paciente()
 

@@ -6,7 +6,7 @@ fecha=("fecha de la cita")
 
 cita={
     "nombre": nombre,
-    "fehca":fecha
+    "fecha": fecha
 }
 
 citas.append(cita)
