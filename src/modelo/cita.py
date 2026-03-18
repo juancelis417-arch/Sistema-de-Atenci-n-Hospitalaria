@@ -1,12 +1,13 @@
 from controlador.datos import citas
 def crear_cita():
+    print()
     print("Creando la cita...")
     nombre=input("nombre paciente")
-    fecha=("fecha de la cita")
+    fecha=input("fecha de la cita")
 
     cita={
         "nombre": nombre,
-        "fecha": fecha,
+        "fecha": fecha
     }
 
     citas.append(cita)

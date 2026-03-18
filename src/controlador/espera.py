@@ -2,6 +2,7 @@ from controlador.datos import pacientes
 
 
 def ver_paciente_espera():
+    print()
 
     print("\n-----pacientes en espera-----")
 

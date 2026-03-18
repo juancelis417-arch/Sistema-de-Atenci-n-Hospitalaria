@@ -1,7 +1,7 @@
 from controlador.datos import pacientes
 
 def registrar_paciente():
-    
+    print()
     print("-----ingrese los datos para ser regidtraso en el sistema...!-----")
     nombre=input("ingrese su nombre: ")
     print(f"paciente {nombre} fue registrado\n")
@@ -17,10 +17,9 @@ def registrar_paciente():
     
     
     pacientes.append(paciente)
-    registrar_paciente()
+
 
     print("Paciente registrado exitosamente!!")
 
-
-
+   
 

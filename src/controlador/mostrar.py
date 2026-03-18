@@ -1,5 +1,6 @@
 from controlador.datos import pacientes
 def mostrar_pacientes():
+    print()
     print("-----lista de pacientes-----")
 
     if len(pacientes) == 0:
