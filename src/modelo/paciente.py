@@ -7,7 +7,7 @@ def registrar_paciente():
     print(f"paciente {nombre} fue registrado\n")
     
     edad=(input("ingrese su edad: "))
-    print(f"su edad {edad} fue registrada")
+    print(f"su edad {edad} fue registrada\n")
     
     sintoma=str(input("ingrese su sintoma: "))
     print(f"su sistma {sintoma} fue registrado\n")
