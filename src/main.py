@@ -1,4 +1,8 @@
-import os
+from modelo.paciente import registrar_paciente
+from controlador.espera import ver_paciente_espera 
+from modelo.cita import crear_cita                
+from controlador.mostrar import mostrar_pacientes
+
 
 print("-------------------Sistema De Atencion Hospitalaria----------------------")
 print("1. Registro de paciente")
@@ -15,16 +19,16 @@ seccion=int(input(f"ingrese una {opcion} del menu: " ))
 
 
 if seccion == 1:
-    os.system("python src/modelo/paciente.py")
+    registrar_paciente()
     
 elif seccion ==2:
-    os.system("python src/controlador/mostrar.py")
+    ver_paciente_espera()
     
 elif seccion == 3:
-    os.system("python src/modelo/cita.py")
+    crear_cita()
     
 elif seccion == 4:
-    os.system("python src/controlador/mostrar.py")
+    mostrar_pacientes()
     
 elif seccion == 5:
     print("Simulando atencion de pacientes...")

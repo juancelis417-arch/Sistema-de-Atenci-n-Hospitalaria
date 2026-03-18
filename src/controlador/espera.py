@@ -1,5 +1,6 @@
 from controlador.datos import pacientes
-
+def ver_paciente_espera():
+    pass
 print("-----pacientes en espera-----")
 
 if len(pacientes) == 0:
