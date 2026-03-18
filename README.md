@@ -2,6 +2,7 @@
 
 Descripción
 Sistema diseñado para gestionar la atención de pacientes en un hospital, permitiendo el registro y control de procesos clínicos de manera concurrente.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objetivos
 - Administrar pacientes
