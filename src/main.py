@@ -14,14 +14,14 @@ while True:
 
     opcion = [1, 2, 3, 4, 5]
     
-    seccion=int(input(f"ingrese una {opcion} del menu: " )) 
+    seccion=input(f"ingrese una {opcion} del menu: " )
 
 
 
     if seccion == 1:
       registrar_paciente()
     
-    elif seccion ==2:
+    elif seccion == 2:
      ver_paciente_espera()
     
     elif seccion == 3:

@@ -1,14 +1,14 @@
 from controlador.datos import citas
 def crear_cita():
     print("Creando la cita...")
-nombre=input("nombre paciente")
-fecha=("fecha de la cita")
+    nombre=input("nombre paciente")
+    fecha=("fecha de la cita")
 
-cita={
-    "nombre": nombre,
-    "fecha": fecha
-}
+    cita={
+        "nombre": nombre,
+        "fecha": fecha,
+    }
 
-citas.append(cita)
-print("la sita esta agendada")
-print(cita)
+    citas.append(cita)
+    print("la sita esta agendada")
+    print(cita)
