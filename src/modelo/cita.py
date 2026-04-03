@@ -11,5 +11,5 @@ def crear_cita():
     }
 
     citas.append(cita)
-    print("la sita esta agendada\n")
+    print("la cita esta agendada\n")
     print(cita)

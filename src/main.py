@@ -30,8 +30,8 @@ while True:
        mostrar_pacientes()
       
       elif seccion == "5":
-       print("Simulando atencion de pacientes...")
-       break 
+       simulacion()
+      
 
 
     
