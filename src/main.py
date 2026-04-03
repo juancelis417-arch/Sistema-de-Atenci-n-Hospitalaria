@@ -2,7 +2,7 @@ from modelo.paciente import registrar_paciente
 from controlador.espera import ver_paciente_espera 
 from modelo.cita import crear_cita             
 from controlador.mostrar import mostrar_pacientes
-
+from simulacion import simulacion
 
 while True:
       print()
