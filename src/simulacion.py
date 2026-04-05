@@ -26,7 +26,6 @@ def simulacion():
         hilo = threading.Thread(target=atender, args=(p[0],))
         hilo.start()
         
-    for h in hilo:
-        h.join()
+
             
             

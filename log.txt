@@ -1,3 +1,6 @@
 Paciente registrado: juan
 Cita creada para juan
 Doctor atendiendo a juan
+Paciente registrado: juan
+Cita creada para juan
+Doctor atendiendo a juan
