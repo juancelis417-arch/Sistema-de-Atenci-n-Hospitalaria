@@ -1,4 +1,5 @@
 from controlador.datos import pacientes
+from controlador.log import escribir_log
 
 def registrar_paciente():
     print()
@@ -17,6 +18,7 @@ def registrar_paciente():
     
     
     pacientes.append(paciente)
+    escribir_log(f"Paciente registrado: {nombre}")
 
 
     print("Paciente registrado exitosamente!!")
