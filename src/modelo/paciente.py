@@ -3,15 +3,15 @@ from controlador.log import escribir_log
 
 def registrar_paciente():
     print()
-    print("-----ingrese los datos para ser regidtraso en el sistema...!-----")
-    nombre=input("ingrese su nombre: ")
-    print(f"paciente {nombre} fue registrado\n")
+    print("-----Ingrese los datos para ser regidtraso en el sistema...!-----")
+    nombre=input("Ingrese su nombre: ")
+    print(f"Paciente {nombre} fue registrado\n")
     
-    edad=(input("ingrese su edad: "))
-    print(f"su edad {edad} fue registrada\n")
+    edad=(input("Ingrese su edad: "))
+    print(f"Su edad {edad} fue registrada\n")
     
-    sintoma=str(input("ingrese su sintoma: "))
-    print(f"su sistma {sintoma} fue registrado\n")
+    sintoma=str(input("Ingrese su sintoma: "))
+    print(f"Su sistma {sintoma} fue registrado\n")
     
     paciente=(nombre, edad, sintoma)
     print(paciente)
