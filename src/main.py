@@ -8,14 +8,14 @@ while True:
       print()
       print("-------------------Sistema De Atencion Hospitalaria----------------------")
       print("1. Registro de paciente")
-      print("2. ver paciente en espera")
+      print("2. Ver paciente en espera")
       print("3. Creacion de citas")
       print("4. Mostrar pacientes")
       print("5. Simulacion de sistema concurrente")
 
 
       
-      seccion=input("ingrese una  del menu: " )
+      seccion=input("Ingrese una  del menu: " )
 
       if seccion == "1":
         registrar_paciente()

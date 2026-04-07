@@ -21,7 +21,7 @@ def registrar_paciente():
     escribir_log(f"Paciente registrado: {nombre}")
 
 
-    print("Paciente registrado exitosamente!!")
+    print("Paciente registrado exitosamente...!!")
 
    
 

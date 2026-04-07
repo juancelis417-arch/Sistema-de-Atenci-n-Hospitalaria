@@ -9,7 +9,7 @@ def atender(nombre):
     
     with lock:
 
-        print(f"doctor atendiendo a {nombre}")
+        print(f"Doctor atendiendo a {nombre}")
         escribir_log(f"Doctor atendiendo a {nombre}")
     time.sleep(3)
 
@@ -31,7 +31,7 @@ def atender(nombre):
     
     with lock:
 
-        print(f"doctor atendiendo a {nombre}")
+        print(f"Doctor atendiendo a {nombre}")
         escribir_log(f"Doctor atendiendo a {nombre}")
     time.sleep(3)
 

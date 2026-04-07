@@ -3,8 +3,8 @@ from controlador.log import escribir_log
 def crear_cita():
     print()
     print("Creando la cita...")
-    nombre=input("nombre paciente: ")
-    fecha=input("fecha de la cita: ")
+    nombre=input("Nombre paciente: ")
+    fecha=input("Fecha de la cita: ")
 
     cita={
         "nombre": nombre,
@@ -13,5 +13,5 @@ def crear_cita():
 
     citas.append(cita)
     escribir_log(f"Cita creada para {nombre}")
-    print("la cita esta agendada\n")
+    print("La cita esta agendada...!\n")
     print(cita)
