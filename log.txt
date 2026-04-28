@@ -1,11 +1,6 @@
-Cita creada para juan alberto celis
 Paciente registrado: juan
 Cita creada para mariana
 Doctor atendiendo a juan
 juan fue atendido
-Paciente registrado: juan
-Cita creada para jaime
 Doctor atendiendo a juan
-Doctor atendiendo a juan
-juan fue atendido
 juan fue atendido

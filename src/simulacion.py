@@ -11,10 +11,12 @@ def atender(nombre):
 
         print(f"Doctor atendiendo a {nombre}")
         escribir_log(f"Doctor atendiendo a {nombre}")
+        print(f"Analizando examnes de {nombre}")
     time.sleep(3)
 
         
     with lock:
+
         print(f"{nombre} fue atendido")
         escribir_log(f"{nombre} fue atendido")
 
