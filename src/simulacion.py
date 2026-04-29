@@ -11,7 +11,7 @@ def atender(nombre):
 
         print(f"Doctor atendiendo a {nombre}")
         escribir_log(f"Doctor atendiendo a {nombre}")
-        print(f"Analizando examnes de {nombre}")
+        
     time.sleep(3)
 
         
@@ -22,7 +22,7 @@ def atender(nombre):
 
 def simulacion():
     
-    import threading
+     import threading
 import time
 from controlador.datos import pacientes
 from controlador.log import escribir_log
@@ -36,7 +36,14 @@ def atender(nombre):
         print(f"Doctor atendiendo a {nombre}")
         escribir_log(f"Doctor atendiendo a {nombre}")
     time.sleep(3)
-
+    print(f"Relizando diagnostico del paciente {nombre}")
+    time.sleep(3)
+    print(f"Examenes de laboratorio promedio basico")
+    time.sleep(3)
+    print(f"Examenes de corazon de {nombre}, fue estable")
+    time.sleep(3)
+    print(f"Paciente estable, Cumple con requesitos de alta ")
+    
         
     with lock:
         print(f"{nombre} fue atendido")
