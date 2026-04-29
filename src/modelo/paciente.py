@@ -8,19 +8,19 @@ def registrar_paciente():
     print()
     print("-----Ingrese los datos para ser registraso en el sistema...!-----")
     
-    nombre=input("Ingrese su nombre: ")
+    nombre=input("Ingrese su Nombre: ")
     print(f"Paciente {nombre} fue registrado\n")
     
-    edad=(input("Ingrese su edad: "))
+    edad=(input("Ingrese su Edad: "))
     print(f"Su edad {edad} fue registrada\n")
     
-    sintoma=str(input("Ingrese su sintoma: "))
-    print(f"Su sistma {sintoma} fue registrado\n")
+    sintoma=str(input("Ingrese su Sintoma: "))
+    print(f"Su sistoma {sintoma} fue registrado\n")
     
-    print()
-    print(f"1.Prioridad baja (No Urgente)")
-    print(f"2.Prioridad media (Urgente Moderado)")
-    print(f"3.Prioridad alta (Urgente/Critico)")
+    print("\nNivel de prioridad")
+    print(f"1.Prioridad Baja (No Urgente)")
+    print(f"2.Prioridad Media (Urgente Moderado)")
+    print(f"3.Prioridad Alta (Urgente/Critico)")
     
     
     
@@ -28,15 +28,18 @@ def registrar_paciente():
     complejida=input("ingrese una opcion del menu:")
     
     if complejida == "1":
-        complejida = "complejida baja"
+        complejida = "Complejida Baja"
+        print("\nPaciente Complejida baja, Atención espera")
         ver_paciente_espera()
         
     elif complejida == "2":
-        complejida = "complegida media"
+        complejida = "Complejida Media"
+        print("\nPaciente Complejida media, Atención espera")
         ver_paciente_espera()
     
     elif complejida == "3":
-        complejida = "complegida alta"
+        complejida = "Complejida Alta"
+        print("\nPaciente crítico, Atención inmediata")
         atender(nombre)
     
     
@@ -48,8 +51,7 @@ def registrar_paciente():
     pacientes.append(paciente)
     escribir_log(f"Paciente registrado: {nombre}")
 
-
+    print()
     print("Paciente registrado exitosamente...!!")
 
    
-

@@ -11,4 +11,5 @@ def ver_paciente_espera():
     else:
          for p in pacientes:
             print(f"Nombre: {p[0]} | Edad: {p[1]} | Síntoma: {p[2]}")
+    print()
             

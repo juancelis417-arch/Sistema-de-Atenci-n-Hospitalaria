@@ -15,7 +15,7 @@ while True:
 
 
       
-      seccion=input("Ingrese una  del Menu: " )
+      seccion=input("Ingrese una opcion del Menu: " )
 
       if seccion == "1":
         registrar_paciente()

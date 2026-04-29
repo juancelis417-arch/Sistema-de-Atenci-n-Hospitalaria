@@ -1,0 +1,6 @@
+Paciente registrado: juan
+Cita creada para mariana
+Doctor atendiendo a juan
+juan fue atendido
+Paciente registrado: juan
+Paciente registrado: juan
