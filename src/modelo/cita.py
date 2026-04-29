@@ -7,7 +7,7 @@ def crear_cita():
     fecha=int(input("Fecha de la Cita: "))
     print(f"Que tipo de cita requiere")
     print("Consulta Externa, Consulta General, Cita Prioritaria")
-    tipo_cita=input(f"Escriba el tipo de colsuta:")
+    tipo_cita=input(f"Escriba el tipo de consulta:")
     
 
     cita={
