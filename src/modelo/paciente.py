@@ -17,7 +17,7 @@ def registrar_paciente():
     sintoma=str(input("Ingrese su Sintoma: "))
     print(f"Su sistoma {sintoma} fue registrado\n")
     
-    print("\nNivel de prioridad")
+    print("\n-----Nivel de prioridad-----")
     print(f"1.Prioridad Baja (No Urgente)")
     print(f"2.Prioridad Media (Urgente Moderado)")
     print(f"3.Prioridad Alta (Urgente/Critico)")

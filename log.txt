@@ -4,3 +4,10 @@ Doctor atendiendo a juan
 juan fue atendido
 Paciente registrado: juan
 Paciente registrado: juan
+Paciente registrado: carlos
+Cita Creada para maria
+Paciente registrado: juan
+Cita Creada para mariana
+Cita Creada para juan
+Cita Creada para JUAN
+Cita Creada para juan
