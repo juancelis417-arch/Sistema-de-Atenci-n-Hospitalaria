@@ -18,9 +18,9 @@ def registrar_paciente():
     print(f"Su sistma {sintoma} fue registrado\n")
     
     print()
-    print(f"1.prioridad baja(no urgente)")
-    print(f"2.prioridad media(urgente moderado)")
-    print(f"3.prioridad alta(urgente/critico)")
+    print(f"1.Prioridad baja (No Urgente)")
+    print(f"2.Prioridad media (Urgente Moderado)")
+    print(f"3.Prioridad alta (Urgente/Critico)")
     
     
     
