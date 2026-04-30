@@ -5,11 +5,13 @@ def crear_cita():
     print("Creando la cita...")
     nombre=input("Nombre Paciente: ")
     fecha=int(input("Fecha de la Cita: "))
+    
     print()
     print(f"------Que tipo de cita requiere-----")
     print("1.Consulta Externa")
     print("2.Consulta General")
     print("3.Cita Prioritaria\n")
+    
     tipo_cita=input(f"Escriba el tipo de consulta:")
     
     if tipo_cita == '1':
