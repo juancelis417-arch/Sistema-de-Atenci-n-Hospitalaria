@@ -14,24 +14,28 @@ while True:
       print("5. Simulacion de sistema concurrente")
 
 
-      
-      seccion=input("Ingrese una opcion del Menu: " )
 
+      contador =0
+      seccion=input("Ingrese una opcion del Menu: " ) 
+       
       if seccion == "1":
-        registrar_paciente()
-      
+        if contador < 3:
+          registrar_paciente()
+          contador +=1
+
+          
       elif seccion == "2":
-       ver_paciente_espera()
+          ver_paciente_espera()
       
       elif seccion == "3":
-       crear_cita()
+          crear_cita()
       
       elif seccion == "4":
-       mostrar_pacientes()
+          mostrar_pacientes()
       
       elif seccion == "5":
-       simulacion()
-      
+          simulacion()
+   
 
 
     

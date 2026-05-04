@@ -3,6 +3,8 @@ from controlador.log import escribir_log
 from controlador.espera import ver_paciente_espera
 from simulacion import atender
 
+    
+
 
 def registrar_paciente():
     print()
@@ -26,21 +28,22 @@ def registrar_paciente():
     
     print()
     complejida=input("ingrese una opcion del menu:")
+
     
     if complejida == "1":
-        complejida = "Complejida Baja"
+        complejida = "Baja"
         print("\nPaciente Complejida baja, Atención espera")
-        ver_paciente_espera()
+
         
     elif complejida == "2":
-        complejida = "Complejida Media"
+        complejida = "Media"
         print("\nPaciente Complejida media, Atención espera")
-        ver_paciente_espera()
+
     
     elif complejida == "3":
-        complejida = "Complejida Alta"
+        complejida = "Alta"
         print("\nPaciente crítico, Atención inmediata")
-        atender(nombre)
+        atender(nombre, "Alta")
     
     
     
