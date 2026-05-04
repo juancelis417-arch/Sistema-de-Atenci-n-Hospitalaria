@@ -27,7 +27,7 @@ def registrar_paciente():
     
     
     print()
-    complejida=input("ingrese una opcion del menu:")
+    complejida=input("ingrese una opcion del menu: ")
 
     
     if complejida == "1":
