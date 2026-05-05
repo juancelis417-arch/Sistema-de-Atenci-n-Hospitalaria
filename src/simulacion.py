@@ -8,11 +8,11 @@ lock = threading.Lock()
 def atender(nombre, prioridad):
     
     if prioridad == "Alta":
-        doctor = "Doctor Especialista"
+        doctor = "Doctor Julian Especialista"
     elif prioridad == "Media":
-        doctor = "Doctor General"
+        doctor = "Doctor Fabian Especialista General"
     elif prioridad == "Baja":
-        doctor = "Doctor Consulta"
+        doctor = "Doctor Maurico Especialista En Consulta"
     
     
     
