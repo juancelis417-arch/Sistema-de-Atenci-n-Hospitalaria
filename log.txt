@@ -1,6 +1,0 @@
-Paciente registrado: juan
-Paciente registrado: carlos
-Paciente registrado: mauricio
-carlos fue atendido
-juan fue atendido
-mauricio fue atendido
