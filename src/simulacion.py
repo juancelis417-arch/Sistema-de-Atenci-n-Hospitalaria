@@ -10,8 +10,10 @@ def atender(nombre, prioridad):
     
     if prioridad == "Alta":
         doctor = "Doctor Julian Especialista"
+        
     elif prioridad == "Media":
         doctor = "Doctor Fabian Especialista General"
+        
     else:
         doctor = "Doctor Maurico Especialista En Consulta"
         

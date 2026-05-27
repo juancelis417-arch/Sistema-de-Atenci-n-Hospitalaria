@@ -4,7 +4,12 @@ from modelo.cita import crear_cita
 from controlador.mostrar import mostrar_pacientes
 from simulacion import simulacion
 
-while True:
+
+
+# Sistema de Atencion Hospitalaria
+
+def main():
+    while True:
       print()
       print("-------------------Sistema De Atencion Hospitalaria----------------------")
       print("1. Registro de paciente")
@@ -35,6 +40,8 @@ while True:
       
       elif seccion == "5":
           simulacion()
+      else:
+            print("Se ha alcanzado el limite de pacientes registrados, no se pueden registrar mas pacientes...!!")
    
 
 
