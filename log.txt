@@ -10,3 +10,5 @@ Examenes de laboratorio promedio basico
 Examenes de diagnostico de carlos: fue estable
 Paciente registrado: juan
 Paciente registrado: juan
+Paciente registrado: juan
+Paciente registrado: juan

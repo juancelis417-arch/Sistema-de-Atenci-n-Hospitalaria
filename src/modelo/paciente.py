@@ -11,15 +11,15 @@ def registrar_paciente():
     
     while True:
         nombre=str(input("Ingrese su Nombre: "))
-        
         if not nombre.isdigit():
             print(f"Paciente {nombre} fue registrado\n")
+            break
+        
         else:
             print("El nombre debe contener solo letras, por favor ingrese un nombre valido\n")
             nombre=str(input("Ingrese su Nombre: "))
             
             print(f"Paciente {nombre} fue registrado\n")
-        break
 
         
     while True:
@@ -27,22 +27,26 @@ def registrar_paciente():
         
         if edad.isdigit():
             print(f"Su edad {edad} fue registrada\n")
+            break
+        
         else:
             print("La edad debe ser un número, por favor ingrese una edad valida\n")
             edad=input("Ingrese su Edad: ")
             print(f"Su edad {edad} fue registrada\n")
-        break
+        
 
 
     while True:
         sintoma=str(input("Ingrese su Sintoma: "))
         if not sintoma.isdigit():
             print(f"Su sistoma {sintoma} fue registrado\n")
+            break
+        
         else:
             print("El síntoma debe contener solo letras, por favor ingrese un síntoma valido\n")
             sintoma=str(input("Ingrese su Sintoma: "))
         print(f"Su sistoma {sintoma} fue registrado\n")
-        break
+       
         
     while True:
         print("\n-----Nivel de prioridad-----")
@@ -82,6 +86,8 @@ def registrar_paciente():
         
         else:
             print("Opción no válida. Por favor, ingrese una opción del menú válida.")
+            continue
+        
 
             
 

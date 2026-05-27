@@ -8,8 +8,7 @@ from simulacion import simulacion
 
 # Sistema de Atencion Hospitalaria
 
-def main():
-    while True:
+while True:
       print()
       print("-------------------Sistema De Atencion Hospitalaria----------------------")
       print("1. Registro de paciente")
