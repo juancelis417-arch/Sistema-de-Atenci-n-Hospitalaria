@@ -51,12 +51,18 @@ def atender(nombre, prioridad):
       print(f"Paciente estable, Cumple con requesitos de alta ")
       escribir_log(f"Paciente estable, Cumple con requesitos de alta ")
       time.sleep(3) 
-      
+    
+
       print(f"Estado del paciente {nombre}: Finalizado")
     
       print(f"{nombre} fue atendido por {doctor}")
       escribir_log(f"{nombre} fue atendido por {doctor}")
       print("-----------------------------------")
+      
+      for p in pacientes:
+        if p[0] == nombre:
+         pacientes.remove(p)
+         break
         
       escribir_log("-----------------------------------")
 

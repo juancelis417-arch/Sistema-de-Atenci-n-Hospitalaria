@@ -47,13 +47,7 @@ def registrar_paciente():
             sintoma=str(input("Ingrese su Sintoma: "))
         print(f"Su sistoma {sintoma} fue registrado\n")
         
-        tiempo=str(input("Ingrese horario de llegada si es AM o PM: "))
-        if tiempo.upper() in ["AM", "PM"]:
-            print(f"Horario de llegada {tiempo} fue registrado\n")
-            break
-        else:
-            print("Por favor, ingrese 'AM' o 'PM'\n")
-
+        
 
     while True:
         print("\n-----Nivel de prioridad-----")
@@ -85,7 +79,8 @@ def registrar_paciente():
             complejida = "Alta"
             print("\nPaciente crítico, Atención inmediata")
             atender(nombre, "Alta")
-            break
+            escribir_log(f"Paciente crítico atendido: {nombre}")
+            return
             
         elif complejida == "4":
             print("Saliendo...")
@@ -96,11 +91,6 @@ def registrar_paciente():
             continue
         
 
-            
-
-        
-        
-        
     paciente=(nombre, edad, sintoma, complejida)
     print(paciente)
         

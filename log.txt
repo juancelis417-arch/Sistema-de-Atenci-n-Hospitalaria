@@ -59,3 +59,423 @@ Paciente estable, Cumple con requesitos de alta
 juan fue atendido por Doctor Fabian Especialista General
 -----------------------------------
 Cita Creada para juan
+Cita Creada para juan
+Cita Creada para maria
+Cita Creada para juan
+Cita Creada para juan
+Cita Creada para juan
+Cita Creada para juan
+Paciente registrado: juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------
+Paciente registrado: juan
+Cita Creada para maria
+Cita Creada para juan
+Cita Creada para juan
+Paciente registrado: juan
+Paciente registrado: maria
+Paciente registrado: mario
+Paciente registrado: juan
+Cita Creada para maria
+Cita Creada para maria
+Paciente registrado: juan
+Paciente registrado: juan
+Paciente registrado: mario
+------------------------------------
+Doctor Julian Especialista atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+maria fue atendido por Doctor Julian Especialista
+-----------------------------------
+Paciente registrado: maria
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+mario fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+maria fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------
+Paciente registrado: juan
+------------------------------------
+Doctor Julian Especialista atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Julian Especialista
+-----------------------------------
+Paciente crítico atendido: juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------
+Cita Creada para maria
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------
+Paciente registrado: juan
+Paciente registrado: maria
+Paciente registrado: mario
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de maria: fue estable
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de maria: fue estable
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+Paciente registrado: juan
+Paciente registrado: mario
+Paciente registrado: maria
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Examenes de laboratorio promedio basico
+Realizando diagnostico del paciente maria
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de maria: fue estable
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de maria: fue estable
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de maria: fue estable
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de maria: fue estable
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Paciente estable, Cumple con requesitos de alta 
+Examenes de diagnostico de juan: fue estable
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Paciente estable, Cumple con requesitos de alta 
+Examenes de laboratorio promedio basico
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de diagnostico de mario: fue estable
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+Paciente registrado: juan
+Paciente registrado: maria
+Paciente registrado: mario
+------------------------------------
+Doctor Fabian Especialista General atendiendo a maria
+Realizando diagnostico del paciente maria
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de maria: fue estable
+Paciente estable, Cumple con requesitos de alta 
+maria fue atendido por Doctor Fabian Especialista General
+-----------------------------------
+------------------------------------
+Doctor Fabian Especialista General atendiendo a mario
+Realizando diagnostico del paciente mario
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de mario: fue estable
+Paciente estable, Cumple con requesitos de alta 
+mario fue atendido por Doctor Fabian Especialista General
+-----------------------------------
+------------------------------------
+Doctor Maurico Especialista En Consulta atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Maurico Especialista En Consulta
+-----------------------------------

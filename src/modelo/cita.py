@@ -1,6 +1,7 @@
 from controlador.datos import citas
 from controlador.log import escribir_log
 from datetime import datetime
+import re
 
 def crear_cita():
     print()
@@ -16,7 +17,7 @@ def crear_cita():
             fecha_ocupada=False 
             
             for cita in citas:
-                if cita["Fecha"] == fecha:
+                if cita["Fecha"] == fecha and cita["Hora"] == f"{hora} {jornada}":
                     
                     fecha_ocupada=True
                     break
@@ -30,8 +31,28 @@ def crear_cita():
         except ValueError:
             print("Fecha inválida, Ingrese una fecha en el formato valido (dd/mm/yyyy)\n")
             
-    hora=input("Hora de la cita si es AM o PM (HH:MM): ")
-    
+    while True:
+
+        hora = input("Ingrese la hora de la cita (HH:MM): ")
+        if re.match(r"^\d{1,2}:\d{2}$", hora):
+
+            break
+
+        else:
+
+            print("Hora inválida. Ejemplo válido: 08:30")
+
+
+    while True:
+
+        jornada = input("Ingrese AM o PM: ").upper()
+
+        if jornada == "AM" or jornada == "PM":
+            break
+
+        else:
+
+            print("Solo puede ingresar AM o PM")
     
     print()
     print(f"------Que tipo de cita requiere-----")
@@ -39,26 +60,35 @@ def crear_cita():
     print("2.Consulta General")
     print("3.Cita Prioritaria\n")
     
-    tipo_cita=input(f"Escriba el tipo de consulta:")
-    
-    if tipo_cita == '1':
-        tipo_cita = "Consulta Externa"
-       
-    elif tipo_cita == '2':
-        tipo_cita = "Consulta General"
-    
-    elif tipo_cita == '3':
-        tipo_cita = "Cita Prioritaria"
+    while True:
+        tipo_cita=input(f"Escriba el tipo de consulta:")
+        
+        if tipo_cita == '1':
+            tipo_cita = "Consulta Externa"
+            break
+        
+        elif tipo_cita == '2':
+            tipo_cita = "Consulta General"
+            break
+        
+        elif tipo_cita == '3':
+            tipo_cita = "Cita Prioritaria"
+            break
+            
+        else:
+            print("Opcion no valida, por favor ingrese una opcion valida")
+
+        
     
 
     cita={
         "Nombre": nombre,
         "Fecha": fecha,
-        "Hora": hora,
+        "Hora": f"{hora} {jornada}",
         "Tipo_Cita": tipo_cita 
     }
 
     citas.append(cita)
     escribir_log(f"Cita Creada para {nombre}")
-    print(f"La cita esta Agendada para el dia: {fecha} a las {hora}...!\n")
+    print(f"La cita esta Agendada para el dia: {fecha} a las {hora} {jornada}...!\n")
     print(cita)

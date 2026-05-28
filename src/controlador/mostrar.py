@@ -26,7 +26,8 @@ def mostrar_citas():
         for c in citas:
             print(f"paciente: {c['Nombre']}")
             print(f"Fecha: {c['Fecha']}")
-            print(f"Hora: {c['Hora']} | Tiempo: {c['tiempo']}")
+            print(f"Hora: {c['Hora']}")
+            print(f"Tipo de cita: {c['Tipo_Cita']}")
             print("------------------------")
             
 def mostrar_procesos():

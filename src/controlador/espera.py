@@ -10,6 +10,6 @@ def ver_paciente_espera():
         print("No hay pacientes en espera")
     else:
          for p in pacientes:
-            print(f"Nombre: {p[0]} | Edad: {p[1]} | Sintoma: {p[2]}")
+            print(f"Nombre: {p[0]} | Edad: {p[1]} | Sintoma: {p[2]} | Prioridad: {p[3]}")
     print()
             
