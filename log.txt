@@ -12,3 +12,30 @@ Paciente registrado: juan
 Paciente registrado: juan
 Paciente registrado: juan
 Paciente registrado: juan
+Paciente registrado: juan
+Cita Creada para maria
+Paciente registrado: juan
+Paciente registrado: juan
+Cita Creada para maria
+Cita Creada para maria
+Cita Creada para mario
+Cita Creada para juan
+Paciente registrado: juan
+Cita Creada para mariaw
+------------------------------------
+Doctor Fabian Especialista General atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Fabian Especialista General
+-----------------------------------
+Paciente registrado: juan
+------------------------------------
+Doctor Fabian Especialista General atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Fabian Especialista General
+-----------------------------------

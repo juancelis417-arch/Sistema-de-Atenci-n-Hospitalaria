@@ -94,14 +94,14 @@ def registrar_paciente():
         
         
         
-        paciente=(nombre, edad, sintoma, complejida)
-        print(paciente)
+    paciente=(nombre, edad, sintoma, complejida)
+    print(paciente)
         
         
-        pacientes.append(paciente)
-        escribir_log(f"Paciente registrado: {nombre}")
+    pacientes.append(paciente)
+    escribir_log(f"Paciente registrado: {nombre}")
 
-        print()
-        print("Paciente registrado exitosamente...!!")
+    print()
+    print("Paciente registrado exitosamente...!!")
 
     

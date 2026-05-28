@@ -1,10 +1,37 @@
 from controlador.datos import citas
 from controlador.log import escribir_log
+from datetime import datetime
+
 def crear_cita():
     print()
     print("Creando la cita...")
     nombre=input("Nombre Paciente: ")
-    fecha=int(input("Fecha de la Cita: "))
+        
+    while True:
+        fecha=input("Fecha de la Cita(dd/mm/yyyy): ")
+    
+        try:
+
+            fecha_valida = datetime.strptime(fecha, "%d/%m/%Y")
+            fecha_ocupada=False 
+            
+            for cita in citas:
+                if cita["Fecha"] == fecha:
+                    
+                    fecha_ocupada=True
+                    break
+                
+            if fecha_ocupada:
+                print("La fecha y hora seleccionada ya está ocupada, por favor elija otra fecha.\n")
+                
+            else:
+                break
+
+        except ValueError:
+            print("Fecha inválida, Ingrese una fecha en el formato valido (dd/mm/yyyy)\n")
+            
+    hora=input("Hora de la cita si es AM o PM (HH:MM): ")
+    
     
     print()
     print(f"------Que tipo de cita requiere-----")
@@ -27,10 +54,11 @@ def crear_cita():
     cita={
         "Nombre": nombre,
         "Fecha": fecha,
+        "Hora": hora,
         "Tipo_Cita": tipo_cita 
     }
 
     citas.append(cita)
     escribir_log(f"Cita Creada para {nombre}")
-    print("La cita esta Agendada...!\n")
+    print(f"La cita esta Agendada para el dia: {fecha} a las {hora}...!\n")
     print(cita)
