@@ -46,8 +46,15 @@ def registrar_paciente():
             print("El síntoma debe contener solo letras, por favor ingrese un síntoma valido\n")
             sintoma=str(input("Ingrese su Sintoma: "))
         print(f"Su sistoma {sintoma} fue registrado\n")
-       
         
+        tiempo=str(input("Ingrese horario de llegada si es AM o PM: "))
+        if tiempo.upper() in ["AM", "PM"]:
+            print(f"Horario de llegada {tiempo} fue registrado\n")
+            break
+        else:
+            print("Por favor, ingrese 'AM' o 'PM'\n")
+
+
     while True:
         print("\n-----Nivel de prioridad-----")
         print(f"1.Prioridad Baja (No Urgente)")

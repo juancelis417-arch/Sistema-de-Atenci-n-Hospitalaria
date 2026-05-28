@@ -48,3 +48,14 @@ Examenes de diagnostico de juan: fue estable
 Paciente estable, Cumple con requesitos de alta 
 juan fue atendido por Doctor Fabian Especialista General
 -----------------------------------
+Paciente registrado: juan
+Cita Creada para juan
+------------------------------------
+Doctor Fabian Especialista General atendiendo a juan
+Realizando diagnostico del paciente juan
+Examenes de laboratorio promedio basico
+Examenes de diagnostico de juan: fue estable
+Paciente estable, Cumple con requesitos de alta 
+juan fue atendido por Doctor Fabian Especialista General
+-----------------------------------
+Cita Creada para juan
