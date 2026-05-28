@@ -22,7 +22,7 @@ def atender(nombre, prioridad):
 
       print("------------------------------------")
       print(f"Estado del paciente {nombre}: En espera")
-      time.sleep(2)
+      time.sleep(3)
       
       print(f"Estado del paciente {nombre}: En atención")
       
